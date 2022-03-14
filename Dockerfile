@@ -1,2 +1,2 @@
-FROM bamini777/webapp
+FROM hshar/webapp
 ADD . /var/www/html
