@@ -1,2 +1,2 @@
-FROM Bamini777/webapp
+FROM Bamini/webapp
 ADD ./var/www/html
